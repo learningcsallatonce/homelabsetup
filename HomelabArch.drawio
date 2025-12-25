@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="VN8A2Djx7WoMzfDh3DTw">
-    <mxGraphModel>
+    <mxGraphModel dx="1718" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-2" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="90" width="130" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-3" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="" vertex="1">
+          <mxGeometry height="85" width="100" x="50" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-4" edge="1" parent="1" source="jmY3r6z3cqeRmoOkvHbN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="jmY3r6z3cqeRmoOkvHbN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-6" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="" vertex="1">
+          <mxGeometry height="85" width="100" x="50" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-7" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="240" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-8" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" value="" vertex="1">
+          <mxGeometry height="100" width="90" x="550" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-9" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" value="" vertex="1">
+          <mxGeometry height="100" width="90" x="540" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-10" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" value="" vertex="1">
+          <mxGeometry height="100" width="90" x="550" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-11" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" value="" vertex="1">
+          <mxGeometry height="100" width="90" x="5020" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="677.5" width="370" x="440" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jmY3r6z3cqeRmoOkvHbN-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DMZ" vertex="1">
+          <mxGeometry height="30" width="60" x="595" y="830" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
