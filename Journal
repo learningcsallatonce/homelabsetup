@@ -1,1 +1,2 @@
 25/12/2025 : Brainstorming ideas on app.diagrams.net for the lab I will be using to learn devsecops while having in mind the constraints on building it on a single node with 2 nics.
+09/01/2026 : Realizing it is not neccessary to have a two firewall setup with a DMZ if I'm going to implement zerotrust everywhere 
